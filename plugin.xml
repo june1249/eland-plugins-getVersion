@@ -3,7 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="eland-plugin-getVersion"
     version="1.0.0">
-    <name>ElandLaunchApp</name>
+    <name>ElandGetVersion(Android)</name>
     <description>Eland Plguin GetVersion</description>
     <license>MIT</license>
     <keywords></keywords>
