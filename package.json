@@ -1,0 +1,26 @@
+{
+  "name": "eland-plugins-getVersion",
+  "version": "1.0.0",
+  "description": "Eland Plugins GetVersion",
+  "cordova": {
+    "id": "eland-plugins-getVersion",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june1249/eland-plugins-getVersion.git"
+  },
+  "keywords": [
+    "Eland",
+    "getVersion",
+    "cordova-android"
+  ],
+  "author": "ElandSystems",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/june1249/eland-plugins-getVersion/issues"
+  },
+  "homepage": "https://github.com/june1249/eland-plugins-getVersion#readme"
+}
