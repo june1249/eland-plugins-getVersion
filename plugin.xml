@@ -10,7 +10,7 @@
     <repo>https://github.com/june1249/eland-plugin-getVersion.git</repo>
     <issue>https://github.com/june1249/eland-plugin-getVersion/issues</issue>
 
-    <js-module src="www/elandagetVersion.js" name="GetVersionPlugin">
+    <js-module src="www/elandgetVersion.js" name="GetVersionPlugin">
       <clobbers target="eland.plugin.getVersion" />
     </js-module>
 
